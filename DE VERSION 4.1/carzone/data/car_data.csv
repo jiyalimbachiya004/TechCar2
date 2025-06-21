@@ -1,0 +1,59 @@
+make,model,variant,year,selling_price,present_price,kilometers_driven,fuel_type,seller_type,transmission,owner,car_condition,insurance_type,location,engine_cc,power_bhp,seats,color
+Tata,Altroz,XE,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Altroz,XM,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Altroz,XZ,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Altroz,XZ+,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Altroz,XZA,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Altroz,XZA+,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Altroz,XZA+ Dark,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Altroz,XZA+ S,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Nexon,XE,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Nexon,XM,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Nexon,XZ,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Nexon,XZ+,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Nexon,XZA,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Nexon,XZA+,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Nexon,XZA+ Dark,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Nexon,XZA+ S,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Punch,Pure,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Punch,Adventure,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Punch,Accomplished,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Punch,Creative,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Punch,Creative AMT,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Harrier,XE,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Harrier,XM,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Harrier,XZ,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Harrier,XZA,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Harrier,XZA+,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Harrier,XZA+ Dark,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Harrier,XZA+ S,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Safari,XE,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Safari,XM,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Safari,XZ,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Safari,XZA,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Safari,XZA+,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Safari,XZA+ Dark,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Tata,Safari,XZA+ S,2022,7.0,8.0,10000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,88,5,White
+Toyota,Fortuner,4x4,2020,25.0,28.0,15000,Diesel,Dealer,Automatic,1,Excellent,Comprehensive,Kolkata,2755,201,7,Black
+Toyota,Innova Crysta,GX,2019,18.0,20.0,30000,Diesel,Individual,Manual,1,Good,Comprehensive,Delhi,2393,147,7,Silver
+Toyota,Glanza,G,2020,7.0,8.0,25000,Petrol,Dealer,Manual,1,Excellent,Comprehensive,Mumbai,1197,82,5,White
+Toyota,Urban Cruiser,G,2021,8.5,9.5,20000,Petrol,Individual,Manual,1,Good,Comprehensive,Bangalore,1462,103,5,Blue
+Hyundai,Creta,SX,2020,12.0,14.0,20000,Petrol,Individual,Automatic,1,Excellent,Comprehensive,Hyderabad,1497,113,5,White
+Hyundai,Verna,SX,2021,10.5,12.0,15000,Petrol,Dealer,Manual,1,Good,Comprehensive,Chennai,1497,123,5,Silver
+Hyundai,i20,Sportz,2020,8.0,9.0,25000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Pune,1197,82,5,Red
+Hyundai,Venue,SX,2021,9.0,10.0,20000,Petrol,Dealer,Manual,1,Good,Comprehensive,Kolkata,1197,82,5,Blue
+Hyundai,Alcazar,Platinum,2021,15.0,17.0,15000,Petrol,Individual,Automatic,1,Excellent,Comprehensive,Delhi,1497,113,7,White
+Maruti,Swift,VXI,2020,7.0,8.0,30000,Petrol,Dealer,Manual,1,Good,Third Party,Mumbai,1197,82,5,Silver
+Maruti,Baleno,Alpha,2021,8.5,9.5,20000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Bangalore,1197,82,5,Blue
+Maruti,Dzire,ZXI,2020,7.5,8.5,25000,Petrol,Dealer,Manual,1,Good,Third Party,Hyderabad,1197,82,5,White
+Maruti,Ertiga,ZXI,2021,10.0,11.5,20000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Chennai,1462,103,7,Silver
+Maruti,XL6,Alpha,2020,11.5,13.0,30000,Petrol,Dealer,Manual,1,Good,Comprehensive,Pune,1462,103,6,Black
+Kia,Seltos,HTK,2020,11.0,12.5,25000,Petrol,Individual,Automatic,1,Excellent,Comprehensive,Kolkata,1497,113,5,White
+Kia,Carnival,Prestige,2021,25.0,28.0,15000,Diesel,Dealer,Automatic,1,Good,Comprehensive,Delhi,2199,200,7,Black
+Kia,Sonet,HTK,2021,9.0,10.0,20000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Mumbai,1197,82,5,Blue
+Mahindra,XUV700,AX7,2021,18.0,20.0,15000,Petrol,Dealer,Automatic,1,Good,Comprehensive,Bangalore,1997,200,7,White
+Mahindra,Thar,Hard Top,2021,15.0,17.0,20000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Hyderabad,1997,150,4,Black
+Mahindra,Scorpio,Z8,2020,14.0,16.0,25000,Diesel,Dealer,Manual,1,Good,Comprehensive,Chennai,2198,140,7,Silver
+Honda,City,VX,2020,10.0,11.5,30000,Petrol,Individual,Automatic,1,Excellent,Comprehensive,Pune,1498,119,5,White
+Honda,Amaze,VX,2021,8.0,9.0,20000,Petrol,Dealer,Manual,1,Good,Comprehensive,Kolkata,1498,90,5,Silver
+Honda,Jazz,VX,2020,7.5,8.5,25000,Petrol,Individual,Manual,1,Excellent,Comprehensive,Delhi,1199,90,5,Blue 
